@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+
+*.exe
+_pycache_/
+
+bin/
+obj/
